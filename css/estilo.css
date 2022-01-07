@@ -127,6 +127,7 @@ justify-content: center;
 text-align: center;
 font-size: 1.8rem; 
 border-radius: 10px;
+font-family: var(--fuentePrincipal);
 
 }
 
